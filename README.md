@@ -1,0 +1,2 @@
+# mgbsdk
+game pubish sdk
